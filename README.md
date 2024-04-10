@@ -1,12 +1,15 @@
 # vm-detect-browser
 Virtual Machine Detection In The Browser
 
-# Testing
+# IP Leak
 - https://github.com/eric-gitta-moore/ip-tools
+
+## Anti-Bot
+- https://bot.sannysoft.com/
 - https://www.browserscan.net/
-- https://webglreport.com/
 - https://browserleaks.com/
 - https://amiunique.org/
+- https://webglreport.com/
 - https://developer.mozilla.org/zh-CN/docs/Web/API/MediaDevices/enumerateDevices
 
 # Reference
