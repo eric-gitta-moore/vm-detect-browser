@@ -2,7 +2,7 @@
 Virtual Machine Detection In The Browser
 
 ## all in one tools
-- WebbBrowserTools.com
+- WebBrowserTools.com
 
 ## IP Leak
 - https://github.com/eric-gitta-moore/ip-tools
